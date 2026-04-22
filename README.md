@@ -1,5 +1,4 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dushyantsingh08&label=Profile%20views&color=0e75b6&style=flat" alt="dushyantsingh08" /> </p>
 
@@ -32,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dushyantsingh08&show_icons=true&locale=en" alt="dushyantsingh08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dushyantsingh08&" alt="dushyantsingh08" /></p>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />

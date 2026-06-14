@@ -1,35 +1,27 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dushyantsingh08&label=Profile%20views&color=0e75b6&style=flat" alt="dushyantsingh08" /> </p>
+### Hi 👋, I'm Dushyant Singh Rao
 
-- 🌐 New to Open Source
+Final Year Computer Science Student at NIT Delhi passionate about Artificial Intelligence, Competitive Programming, Backend Development, and Open Source.
 
-- 🌱 I’m currently learning AI
+- 🌱 Currently learning **AI, LLMs, Agentic AI, and Distributed Systems**
+- 💻 Interested in **Software Engineering, Backend Development, and AI Infrastructure**
+- 🚀 Building projects around **AI Agents, Browser Extensions, and Developer Productivity**
+- 🤝 Open to **Open Source Contributions and Collaborations**
+- 📫 Reach me at **dushyantsingh27775@gmail.com**
+- ⚡ Fun fact: **A shrimp's heart is in its head**
 
-- 📫 How to reach me **dushyantsingh27775@gmail.com**
+Some of my projects I have published or am actively building:
 
-- ⚡ Fun fact **A shrimp's heart is in its head**
+- 🧹 [LLM Chat Clearer](https://github.com/dushyantsingh08/llm-chat-clearer) - Browser extension for managing and cleaning AI chat histories across multiple platforms.
+- 🤖 [Multi-Agent Research Assistant](https://github.com/dushyantsingh08/multi-agent-research-assistant) - AI-powered research workflow using multiple autonomous agents.
+- 🔍 [RAG Knowledge Base](https://github.com/dushyantsingh08/rag-knowledge-base) - Retrieval-Augmented Generation system for intelligent document search and question answering.
+- 💬 [Realtime Chat Platform](https://github.com/dushyantsingh08/realtime-chat-platform) - Scalable real-time messaging platform built with WebSockets.
+- 📊 [Analytics Dashboard](https://github.com/dushyantsingh08/analytics-dashboard) - Interactive dashboard for monitoring application metrics and user insights.
+- 🧠 [AI Interview Assistant](https://github.com/dushyantsingh08/ai-interview-assistant) - Personalized interview preparation platform powered by LLMs.
+- ⚡ [CP Toolkit](https://github.com/dushyantsingh08/cp-toolkit) - Collection of competitive programming templates, algorithms, and data structures.
+- 🛠️ [Developer Automation Suite](https://github.com/dushyantsingh08/developer-automation-suite) - Tools and scripts for streamlining development workflows.
+- 🌐 [Portfolio Website](https://github.com/dushyantsingh08/portfolio) - Personal portfolio showcasing projects, achievements, and technical blogs.
+- 🐳 [DevOps Toolkit](https://github.com/dushyantsingh08/devops-toolkit) - Docker, CI/CD, and deployment automation utilities.
 
-<h2>Languages</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,go,bash,python,cpp,c)](https://skillicons.dev)
-
-<h2>Frameworks</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=express,angular,react,nextjs,tailwindcss,pytorch,)](https://skillicons.dev)
-
-<h2>Databases</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,mysql)](https://skillicons.dev)
-
-<h2>Tools</h2>
- 
-[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,kafka,linux,githubactions)](https://skillicons.dev)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dushyantsingh08&show_icons=true&locale=en&layout=compact" alt="dushyantsingh08" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dushyantsingh08&show_icons=true&locale=en" alt="dushyantsingh08" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dushyantsingh08&" alt="dushyantsingh08" /></p>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+I'm always open to building, contributing, collaborating, and learning new technologies. Feel free to reach out!

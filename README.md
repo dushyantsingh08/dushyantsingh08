@@ -13,7 +13,7 @@ Final Year Computer Science Student at NIT Delhi passionate about Artificial Int
 
 Some of my projects I have published or am actively building:
 
-- 🧹 [LLM Chat Clearer](https://github.com/dushyantsingh08/OmniBridge) - Browser extension for managing and cleaning AI chat histories 
+- 🧹 [OmniBridge](https://github.com/dushyantsingh08/OmniBridge) - Browser extension for managing and cleaning AI chat histories 
 and switching context across multiple platforms.
 - 🤖 [Anonix](https://github.com/dushyantsingh08/anonix) - A secure, anonymous, and ephemeral chat application built with Next.js, Upstash Redis, and Realtime capabilities. Create temporary rooms, chat instantly with friends, and watch everything self-destruct when you leave.
 - 🔍 [RAG Knowledge Base](https://github.com/dushyantsingh08/rag-knowledge-base) - Retrieval-Augmented Generation system for intelligent document search and question answering.
